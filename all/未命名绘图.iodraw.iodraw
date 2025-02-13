@@ -67,8 +67,8 @@
         <mxCell id="Txs57P6Qy6k4oGNfwELA-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;异常警报&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-55;" vertex="1" parent="1">
           <mxGeometry x="243" y="280" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Txs57P6Qy6k4oGNfwELA-36" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="258" width="50" height="30" as="geometry" />
+        <mxCell id="Txs57P6Qy6k4oGNfwELA-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;异常情况治理指向&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="10" y="253" width="220" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
